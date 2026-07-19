@@ -1,0 +1,12 @@
+loguru
+mkdocs
+pip
+python-dotenv
+ruff
+tqdm
+typer
+selenium
+sqlmodel
+sqlalchemy
+webdriver-manager
+-e .
