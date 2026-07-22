@@ -1,3 +1,7 @@
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8")
+
 from queries import (
     total_items,
     cantidad_por_categoria,
